@@ -1,0 +1,147 @@
+nav ul{
+  list-style: none;
+  padding: o;
+  margin: 0%;
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}
+
+h2{
+  margin-top: 13px;
+  margin-bottom: 30px;
+  color: aqua;
+  display: flex;
+  justify-content: center;
+}
+.container{
+  margin-top: 25px; 
+  margin-bottom: 25px;
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+}
+.alie{
+  display: flex;
+  justify-content: center;
+
+}
+.grid{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+  text-align: left;
+  padding: 0%;
+  margin: 0%;
+}
+a{
+  align-items: center;
+  background-color: hsl(0, 0%, 7%);
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding: 30px;
+  margin: 20px;
+  color: hsl(0, 11%, 96%);
+
+}
+.abu{
+  text-align: left;
+  border-radius: 12px;
+  background: #edeceb;
+  padding-left: 50px;
+  margin: 20px;
+}
+
+
+p{
+  text-align: left;
+  font-size: 25px;
+  margin-left: 75px;
+  font-size: 35px;
+}
+
+footer{
+  align-items: center;
+  background-color: hsl(140, 27%, 2%);
+  display: flex;
+  justify-content: center;
+  padding: 25px;
+  margin: 10px;
+  color: #ffffffe2;
+}
+.social{
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  
+}
+.social a{
+  background-color: white;
+  padding: 1em;
+  border-radius: 50%;
+  flex-shrink: 0;
+  place-items: center;
+  height: 50px;
+  width: 100px;
+  box-sizing: border-box;
+  place-items: center;
+}
+
+.social a svg{
+  height: 32px;
+  fill: red;
+}
+h2{
+  font-size: 60px;
+
+}
+a:hover{
+  color: red;
+}
+.form-group{
+  background-color: #d3cece;
+}
+.my-form{
+  padding bottom: 20px;
+}
+.my-form .form-group{
+  padding-bottom: 15px;
+}
+
+.my-form input [type="text"], .my-form textarea{
+  padding: 8px;
+  width: 100%;
+}
+.my-form input{
+  width: 100%;
+}
+
+.my-form input[type="submit"]{
+  background-color: black;
+  color: white;
+  width: 200px;
+  display: flex;
+  margin-left: 45%;
+  padding: 10px 15px;
+  border: none;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  letter-spacing: 0.2em;
+}
+
+.our-map{
+   display: flex;
+  justify-content: center;
+  width: 80%;
+  margin-bottom: 40px;
+}
+
+.our-map iframe{
+  width: 100%;
+  margin-left: 20%;
+  height: 700px;
+}
+
+
